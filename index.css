@@ -1,0 +1,38 @@
+
+/**
+ * Don't change any of the properties. Only replace anywhere it says '**selector goes here**' with the appropriate selector
+*/
+
+
+
+/* This selector should stay here */
+form {
+  clear: left;
+}
+
+.part-one h2,p,a {
+    color: green;
+}
+.part-two span{
+    color: red;
+}
+
+.part-three .background-yellow {
+    background-color: yellow;
+}
+.part-three .background-pink{
+    background-color: pink;
+}
+
+.part-four .background-yellow{
+    background-color: yellow;
+}
+.part-four .background-pink{
+    background-color: pink;
+}
+.part-four .background-yellow .red-text{
+    color: red;
+}
+.part-four .background-pink .blue-text{
+    color: blue;
+}
